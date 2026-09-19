@@ -96,6 +96,30 @@ streamlit run app.py
 4. Click **Deploy**.
 
 ---
+# 🚀 Customer Churn Prediction Using Machine Learning
+
+### 👩‍💻 Developed by Swapna V
+
+[![🚀 LIVE DEMO](https://img.shields.io/badge/🚀_LIVE_DEMO-Customer_Churn_AI-brightgreen?style=for-the-badge)](https://customer-churn-prediction-qsjwddzdqmaj5yrjd2gpla.streamlit.app/)
+
+📌 About the Project
+
+An end-to-end Machine Learning project that predicts customer churn using Python, Pandas, Scikit-learn and Streamlit.
+
+🛠️ Tech Stack
+
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Machine Learning • Streamlit
+
+✨ Features
+Data Cleaning
+Exploratory Data Analysis
+Feature Engineering
+Logistic Regression
+Decision Tree
+Random Forest
+Model Evaluation
+Churn Probability Prediction
+Interactive Streamlit Dashboard
 
 <div align="center">
   <b>Developed by Swapna V | Machine Learning & Data Analytics Project</b><br>
